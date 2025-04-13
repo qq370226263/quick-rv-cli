@@ -69,12 +69,13 @@ When creating a new project, you can configure the following options:
 git clone https://github.com/qq370226263/quick-rv-cli.git
 
 # 安装依赖 | Install dependencies
-##临时安装
-npx install quick-rv-cli
+cd quick-rv-cli
+npm install
 
-##全局安装
-npm install -g quick-rv-cli
+# 链接到全局 | Link to global
+npm link
 ```
+
 
 
 ## 贡献指南
