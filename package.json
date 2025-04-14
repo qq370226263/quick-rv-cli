@@ -1,7 +1,7 @@
 {
   "name": "quick-rv-cli",
-  "version": "0.1.0",
-  "description": "A CLI tool for quickly creating React and Vue projects",
+  "version": "0.1.1",
+  "description": "A CLI tool for quickly creating React and Vue projects with improved stability",
   "bin": {
     "qrv": "./bin/index.js"
   },

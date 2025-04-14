@@ -1,5 +1,5 @@
 // all selection items for quick-rv-cli
-export const allItems = [
+const allItems = [
   "react-js-webpack-redux-jest",
   "react-js-webpack-redux-mocha",
   "react-js-webpack-redux-no-test",
@@ -145,3 +145,5 @@ export const allItems = [
   "vue3-ts-vite-no-store-mocha",
   "vue3-ts-vite-no-store-no-test"
 ];
+
+module.exports = { allItems };
